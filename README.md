@@ -7,7 +7,6 @@ CubeMAZE is a single player Unity based puzzle game designed to be played in a d
 Download the game according to your operating system: <br />
 [Windows](https://github.com/Nita112233/CubeMAZE_result/blob/master/CubeMAZE_Windows.rar)<br />
 [Linux](https://github.com/Nita112233/CubeMAZE_result/blob/master/CubeMAZE_linux.rar)<br />
-[Mac](https://github.com/Nita112233/CubeMAZE_result/blob/master/CubeMAZE_mac.app.rar)<br />
 
 ## Key Settings
 
